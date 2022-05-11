@@ -1,0 +1,132 @@
+body {
+    text-align: center;
+    color: #444444;
+    font-weight: 400;
+    text-decoration: none;
+    vertical-align: baseline;
+    font-size: 8.6pt;
+    font-family: "Arial";
+    font-style: normal;
+}
+
+a {
+    color: #990022;
+    font-weight: 400;
+    text-decoration: none;
+    vertical-align: baseline;
+    font-size: 8.6pt;
+    font-family: "Arial";
+    font-style: normal;
+}
+
+h1 {
+    width: 550px;
+    text-align: center;
+    color: #000000;
+    font-weight: 600;
+    text-decoration: none;
+    vertical-align: baseline;
+    font-size: 20pt;
+    font-style: italic;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    padding-top: 75px;
+    padding-bottom: 75px;
+    margin: auto;
+    line-height: 45px;
+
+
+}
+
+h2  {
+    padding-top: 50px;
+    padding-bottom: 50px;
+    margin: auto;
+    width: 450px;
+    color: #000000;
+    font-size: 22px;
+    font-family: Arial, Helvetica, sans-serif;
+    font-style: italic;
+    text-align: center;
+    /*margin-left: 33%;
+    margin-right: 33%;*/
+    
+
+    /*font-weight: 700;
+    text-decoration: none;
+    vertical-align: baseline;
+    font-size: 15.6pt;
+    font-family: "Arial";
+    font-style: italic;*/
+}
+
+.images_soustitres {
+    width: 40%;
+    display: block;
+    margin: auto;
+    padding-top: 35px;
+}
+
+img {
+    width: 300px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    /*margin: auto;
+    width: 258px;
+    height: 356.4px;
+    margin-left: 0px;
+    margin-top: 0px;*/
+}
+
+p {
+    font-family: Georgia,Times,"Times New Roman",serif;
+    text-align: left;
+    margin-left: 30%;
+    margin-right: 30%;
+    font-size: 11pt;
+
+    /*color: #444444;
+    font-weight: 400;
+    text-decoration: none;
+    vertical-align: baseline;
+    
+    font-family: "Arial";
+    font-style: normal;*/
+}
+
+.author {
+    text-align: center;
+    color: #444444;
+    font-weight: 400;
+    text-decoration: none;
+    vertical-align: baseline;
+    font-size: 8.6pt;
+    font-family: "Arial";
+    font-style: normal;
+}
+
+.soustitre {    
+    font-size: 9px;
+
+    text-align: left;
+    box-sizing: content-box;
+    width: 300px;
+
+    display: inline-block;
+    border-bottom: 2px solid rgb(0,0,0);
+
+    /*border-color: red;
+    border-radius: 2px;
+    border-style: dashed;*/
+
+    /*
+    
+    text-align: center;
+    color: #454545;
+    font-weight: 400;
+    text-decoration: none;
+    vertical-align: baseline;
+    font-size: 6.3pt;
+    font-family: "Arial";
+    font-style: italic;*/
+}
